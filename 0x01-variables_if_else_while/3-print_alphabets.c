@@ -1,4 +1,5 @@
 #include <stdio.h>
+
 /**
  * main - print alphabet in lowercase and then UPPERCASE.
  *
@@ -18,5 +19,6 @@ int main(void)
 		putchar(m);
 	}
 	putchar('\n');
+
 	return (0);
 }

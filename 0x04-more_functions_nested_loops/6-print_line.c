@@ -2,7 +2,7 @@
 
 /**
  * print_line - draws a straight line in the terminal
- * Return: \n
+ * Return: void
  */
 void print_line(int n)
 {
